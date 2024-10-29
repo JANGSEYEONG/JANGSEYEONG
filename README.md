@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div align = "center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=24&pause=1000&color=DF6695DA&width=435&lines=Hi%2C+I'm+Se+Yeong+%3A)" alt="Typing SVG" /></a>
 
@@ -41,7 +40,6 @@
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJANGSEYEONG&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
  
-</div>
 
 </div>
 
